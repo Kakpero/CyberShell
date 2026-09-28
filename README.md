@@ -1,2 +1,3 @@
-# CYBER cyberpunk inspired aesthetic 
-# SHELL widget shell engine using gtkmm
+# CyberShell 
+Cyberpunk inspired aesthetic 
+Widget shell engine using gtkmm
