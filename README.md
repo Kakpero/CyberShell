@@ -1,3 +1,2 @@
 # CyberShell 
-Cyberpunk inspired aesthetic 
-Widget shell engine using gtkmm
+Widget shell script using gtkmm. Aesthetic inspired by cyberpunk
